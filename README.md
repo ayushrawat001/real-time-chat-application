@@ -24,22 +24,6 @@ Backend:
 - MongoDB
 - Socket.IO
 
-## Installation
-
-### Backend
-
-npm install
-npm run dev
-
-### Frontend
-
-npm install
-npm start
-
-## Environment Variables
-
-Create a .env file and configure the required variables.
-
 ## Author
 
 Ayush Rawat
